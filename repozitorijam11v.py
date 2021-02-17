@@ -13,7 +13,7 @@ print(5**6)
 #5)Gulbis Kristaps
 
 #6)Kalniòa Agnese
-
+print(5**2)
 #7) Knope Elizabete
 
 #8) Laizâns Ralfs Adrians
