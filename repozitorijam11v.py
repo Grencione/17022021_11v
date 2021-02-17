@@ -21,7 +21,7 @@ print(8**2)
 #9)Neija Niks Rûdolfs
 
 #10)Ratnieks Paulis
-
+print(3 % 2)
 #11)Rimkçvièa Alise
 
 #12)Samsonova Anna
