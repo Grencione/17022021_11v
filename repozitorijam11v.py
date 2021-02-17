@@ -5,7 +5,7 @@ print(5**6)
 #1)Auniòð Rûdolfs
 
 #2)Âdams Aleksis Henrijs
-
+print(1+3)
 #3)Dorbe Henrijs
 
 #4)Dunajevs Mârtiòð
