@@ -23,7 +23,7 @@ print(5**6)
 #10)Ratnieks Paulis
 
 #11)Rimkçvièa Alise
-
+print(5+5)
 #12)Samsonova Anna
 
 #13)Zîverte Mâra Anna
