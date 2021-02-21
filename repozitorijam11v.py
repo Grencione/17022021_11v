@@ -1,5 +1,9 @@
 #fails repozitorijam
-print(3**5+2)
+
+print(3**5+2/4)
+
+print(3**5+2+3)
+
 #Tatjana Grencione
 print(3**6+2)
 #1)Auniòð Rûdolfs
